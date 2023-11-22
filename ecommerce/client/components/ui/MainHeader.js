@@ -1,4 +1,3 @@
-import React from "react";
 import Link from "next/link";
 import MainNavBar from "./MainNavBar";
 const MainHeader = () => {
@@ -10,10 +9,10 @@ const MainHeader = () => {
       >
         <div>
           <span className="text-3xl text-purple-600 hover:text-purple-700">
-            we
+            shop
           </span>
           <span className="text-3xl font-bold text-fuchsia-400 hover:text-fuchsia-700">
-            Buy
+            pR
           </span>
         </div>
       </Link>
